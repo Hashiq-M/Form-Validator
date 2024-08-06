@@ -1,11 +1,11 @@
-Hello there !!!
+Hello there Folks!!!
 
 *This file application uses VLOOKUP for validating the excel files
 
 *Using the setup file u can build the application that uses cx freeze
 
 *For that right click holding shift button on the same folder as u have these files and make sure to
-install the necessary packages they openpyxl and cxfreeze
+install the necessary packages they are openpyxl and cxfreeze
 
 *after successfull building u can find the python.exe with necessary files 
 
